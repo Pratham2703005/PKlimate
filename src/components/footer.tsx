@@ -1,5 +1,4 @@
 import { GitHubLogoIcon, InstagramLogoIcon, LinkedInLogoIcon, TwitterLogoIcon } from "@radix-ui/react-icons";
-import { Code, BookOpen } from "lucide-react";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
